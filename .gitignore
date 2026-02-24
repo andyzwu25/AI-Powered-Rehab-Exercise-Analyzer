@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+
+# Videos and Training Data
+*.mp4
+*.webm
+*.mov
+*.avi
+data/raw/
+
+# System files
+.DS_Store
+Thumbs.db
